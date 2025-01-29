@@ -24,3 +24,5 @@ Az utófeldolgozás modulja, amely az eredményfájlokat összefűzi, tisztítja
 
 Az elemzés célja, hogy megmutassam, milyen típusú következtetéseket lehet levonni az adatrendszer segítségével. Kb. a populáció 20%-ánál figyelhető meg évről évre valamilyen változás a háztartási struktúrában, ami jól jelzi a társadalmi dinamika állandó jelenlétét.
 
+![Társsal élők aránya](https://github.com/Arthon83/Household-analysis-of-Hungary/blob/main/img/circle.png)
+
